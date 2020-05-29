@@ -22,7 +22,7 @@ Website deployed at Vercel.com - [** Oladimeji Odunsi Portfolio - https://none.n
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd raddy-responsive-design/
+    cd oladimeji-odunsi-portfolio/
     yarn install
     yarn start
     ```
