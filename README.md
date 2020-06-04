@@ -2,7 +2,7 @@
 
 > Little project inspired in a HTML, SCSS and Media Queries series by [ Raddy The Brand Youtube](https://youtu.be/Q2BSNTfhGsw)
 
-Website deployed at Vercel.com - [** Oladimeji Odunsi Portfolio - https://none.none/**](https://none.none/)
+Website deployed at Vercel.com - [** Oladimeji Odunsi Portfolio - oladimeji-portfolio.now.sh **](oladimeji-portfolio.now.sh)
 
 ---
 
